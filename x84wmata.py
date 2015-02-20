@@ -3,7 +3,7 @@ from x84.bbs import echo, getterminal, getsession, LineEditor
 from common import waitprompt
 import json, sys
 
-api = Wmata("exq6dtydgwdf3ys2ynyk5pmd")
+api = Wmata("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 
 def listLines():
 	term = getterminal()
